@@ -1,0 +1,25 @@
+
+
+
+
+
+#slides_control > div{
+  height: 400px;
+}
+img{
+  margin:auto;
+  width: 800px;
+  height: 400px;
+}
+#slides_control {
+  position:relative;
+  width: 800px;
+  left:20px;
+  top:20px;
+ margin-left:-100px;
+}
+.col-sm-4{
+	
+	top:20px;
+}
+
